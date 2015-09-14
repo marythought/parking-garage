@@ -55,9 +55,9 @@ This block of text should explain how to configure your application:
 
 Pictures of domain modeling below (sketch and UML):
 
-![Screenshot 1](http://placekitten.com/400/300)
+![Parking garage sketch](https://s3-us-west-2.amazonaws.com/mary-portfolio/parking_garage_sketch.jpg)
 
-![Screenshot 2](http://placekitten.com/400/300)
+![Parking garage UML](https://s3-us-west-2.amazonaws.com/mary-portfolio/parking_garage_UML.jpg)
 
 <!--
 ### Known Issues
