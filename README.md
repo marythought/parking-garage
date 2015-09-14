@@ -55,7 +55,7 @@ This block of text should explain how to configure your application:
 
 Pictures of domain modeling below (sketch and UML):
 
-![Parking garage sketch](http://marydickson.com/wp-content/uploads/2015/09/parkingUML.jpg)
+![Parking garage sketch](http://marydickson.com/wp-content/uploads/2015/09/parkingSketch.jpg)
 
 ![Parking garage UML](http://marydickson.com/wp-content/uploads/2015/09/parkingUML.jpg)
 
